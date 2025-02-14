@@ -8,11 +8,8 @@ Description: This package process, plot agregate rspecdata reflectances. The vis
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
-Imports:
-    pavo,
-    tibble,
-    dplyr,
-    magrittr
+Imports: pavo, tibble, dplyr, magrittr
 RoxygenNote: 7.3.2
-Depends: 
-    R (>= 2.10)
+Depends: R (>= 2.10)
+NeedsCompilation: no
+Packaged: 2025-02-14 19:20:40 UTC; PC

@@ -1,0 +1,13 @@
+fixspec                 Spectral Data Processing
+leptodactyla            Fiddler crab Leptuca leptodactyla reflectances
+plotspec                plot average spectra
+podarcis_visualpeaks    Visual peaks of Podarcis
+transmit                Transmittance of Pavo cristatus
+vis.bluetit             Bluetit Visual Modeling
+vis.fiddler             Fiddler Crab Visual Modeling
+vis.human.di            Calculate chromatic and achromatic contrasts
+                        for dichromatic human vision
+vis.human.tri           Calculate chromatic and achromatic contrasts
+                        for trichromatic human vision
+vis.peafowl             Peafowl Visual Model
+vis.podarcis            Podarcis vismodel

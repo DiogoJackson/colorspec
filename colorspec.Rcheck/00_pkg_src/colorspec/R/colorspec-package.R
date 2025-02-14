@@ -1,0 +1,23 @@
+#' colorspec: Visual Modeling
+#'
+#' colorspec is an R package designed to facilitate the analysis of visual perception in fiddler crabs, peafowl, and bluetits using the Receptor Noise Limited (RNL) model. The package provides tools for calculating chromatic and achromatic contrast in Just Noticeable Difference (JND) units, allowing researchers to quantify color contrast as perceived by these species under different lighting conditions. The visual model parameters are based on published studies, and the package leverages the pavo package for spectral data processing.
+#'
+#' @section Key Functions:
+#'
+#' - \code{\link{vis.fiddler}}:
+#' Calculates chromatic and achromatic contrast for fiddler crab vision.
+#'
+#' - \code{\link{vis.peafowl}}:
+#' Calculates chromatic and achromatic contrast for peafowl vision.
+#'
+#' - \code{\link{vis.bluetit}}:
+#' Calculates chromatic and achromatic contrast for bluetit vision.
+#'
+#' - \code{\link{fixspec}}:
+#' Preprocesses spectral data by converting it to an rspec object, normalizing reflectance values, correcting negative values, and applying smoothing.
+#'
+#' @name colorspec-package
+#' @docType package
+#' @keywords internal
+"_PACKAGE"
+
